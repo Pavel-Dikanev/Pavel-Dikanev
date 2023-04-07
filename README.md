@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 
 ### You can learn about me<a href="https://pavel-dikanev.github.io/User-Landing/"> here :smirk:</a>
 <!--
